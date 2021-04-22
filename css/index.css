@@ -31,14 +31,14 @@ html {
 }
 
 .heroImg{
-	padding: 50px;
+	padding: 75px;
 	text-align: center;
 	background-color: gray;
 	color: black;
 }
 
 .resumeButton {
-	border: none;
+	border: 2px solid black;
 	padding: 10px;
 	text-align: center;
 	color: white;
@@ -52,7 +52,7 @@ html {
 .resumeButton:hover{
 	background-color: lightgrey;
 	color: black;
-	border: 2px, black;
+	border: 2px solid black;
 }
 
 .portfolio {
@@ -87,7 +87,7 @@ html {
 }
 
 .button {
-	border: none;
+	border: 2px solid black;
 	display: inline-block;
 	padding: 10px;
 	color: white;
@@ -101,7 +101,7 @@ html {
 .button:hover{
 	background-color: lightgrey;
 	color: black;
-	border: 2px, black;
+	border: 2px solid black;
 }
 
 .footer{
